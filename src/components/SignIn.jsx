@@ -162,7 +162,7 @@ const SignIn = () => {
 
         <div className="auth-footer">
           <p>
-            Don't have an account?{' '}
+            Akkaunt hali yaratilmaganmi?{' '}
             <Link to="/signup" className="auth-link">
               Sign Up
             </Link>
